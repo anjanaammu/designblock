@@ -1,0 +1,26 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    margin-left:10%;
+    margin-top:10%;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color:grey;
+}
+i{
+    font-size:30px;
+    padding: 10px;
+    color:grey;
+}
+.img{
+   
+    margin-right:70%;
+}
+p{
+    font-weight: lighter;
+    font-size: 160%;
+}
+   
